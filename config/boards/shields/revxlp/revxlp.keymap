@@ -77,7 +77,7 @@
             bindings = <
    &kp LG(LS(N4))  &trans     &kp PAGE_UP        &kp UP_ARROW      &kp PAGE_DOWN       &kp HOME                &kp CARET            &kp PAGE_UP             &kp UP_ARROW       &kp PAGE_DOWN      &kp LG(LS(N5))     &kp LG(LS(N4))
    &trans          &trans     &kp LEFT_ARROW     &kp DOWN_ARROW    &kp RIGHT_ARROW     &kp END                 &kp MINUS            &kp LEFT_ARROW          &kp DOWN_ARROW     &kp RIGHT_ARROW    &kp END            &trans
-   &out LSHFT      &trans     &trans             &trans            &kp LC(LEFT_ARROW)  &kp LC(RIGHT_ARROW)     &kp LC(LEFT_ARROW)   &kp LC(RIGHT_ARROW)     &trans             &trans             &trans             &out OUT_TOG
+   &kp LSHFT      &trans     &trans             &trans            &kp LC(LEFT_ARROW)  &kp LC(RIGHT_ARROW)     &kp LC(LEFT_ARROW)   &kp LC(RIGHT_ARROW)     &trans             &trans             &trans             &out OUT_TOG
                               &kp LGUI           &mo ADJUST        &trans              &trans   &trans   &trans
             >;
         };
@@ -103,3 +103,15 @@
 
     };
 };
+jlkhhlhl'''{{{{{{{{{{{{{{{{{          
+
+
+        СССсССС22313***8888???
+**                   ****??;;№"!БЬБББББББбб=====))(((*?:?::ЪХЪХХХХХХХХХ)))   
+---
+
+шшллл
+
+22222   ХХХХ.   ХХХ ХХХ.    ВОЫАывады Х ХХХ ХХХ ХХХХ  ХХ ХХЫВЛАДЫВЛ ыадыфв
+
+88888
