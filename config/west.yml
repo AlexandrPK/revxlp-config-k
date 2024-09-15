@@ -4,15 +4,10 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: petejohanson
       url-base: https://github.com/petejohanson
-    - name: AlexandrPK
-      url-base: https://github.com/AlexandrPK
   projects:
     - name: zmk
       remote: zmkfirmware
-      revision: main
-      import: app/west.yml
-      name: AlexandrPK
-      remote: AlexandrPK
       revision: feat/pointers-move-scroll
+      import: app/west.yml
   self:
     path: config
