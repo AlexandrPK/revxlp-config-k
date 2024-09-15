@@ -6,7 +6,7 @@ manifest:
       url-base: https://github.com/AlexandrPK
   projects:
     - name: zmk
-      remote: zmkfirmware
+      remote: AlexandrPK
       revision: pointers-move-scroll
       import: app/west.yml
   self:
